@@ -76,3 +76,6 @@ footer {
   .last-item{
     float:right;
   }
+  .nav {
+    background-color: #333;
+  }

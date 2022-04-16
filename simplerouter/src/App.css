@@ -166,4 +166,8 @@ li a {
   font-weight: bold;
 }
 
+.nav {
+  background-color: #333;
+}
+
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');

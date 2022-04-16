@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
         <div id="page-head">
-            <ul>
+            <ul className='nav'>
                 <li className="main-item"><NavLink to="/">Esteban Echeverri</NavLink></li>
                 <li className="last-item"><NavLink to="/">Home</NavLink></li>
                 <li className="last-item"><NavLink to="/image">Meme</NavLink></li>
